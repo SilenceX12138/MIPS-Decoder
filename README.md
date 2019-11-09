@@ -1,5 +1,6 @@
 # MIPS-Decoder
 Translate hex machine code into MIPS instructions
+  
   Instructions supported now:
   -addu
   -subu
